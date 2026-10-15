@@ -1,0 +1,6 @@
+{
+  "name": "PlaceTrack AI",
+  "description": "Comprehensive placement preparation platform with verified aptitude practice, mock tests, performance analytics, and AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
